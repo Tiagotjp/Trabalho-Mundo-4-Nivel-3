@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Estado pressionado -->
+    <item android:state_pressed="true">
+        <shape>
+            <gradient
+                android:angle="45"
+                android:endColor="@color/buttonGradientEndPressed"
+                android:startColor="@color/buttonGradientStartPressed"
+                android:type="linear" />
+            <corners android:radius="32dp" />
+        </shape>
+    </item>
+
+    <!-- Estado padrão -->
+    <item>
+        <shape>
+            <gradient
+                android:angle="45"
+                android:endColor="@color/buttonGradientEnd"
+                android:startColor="@color/buttonGradientStart"
+                android:type="linear" />
+            <corners android:radius="32dp" />
+        </shape>
+    </item>
+</selector>
