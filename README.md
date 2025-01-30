@@ -59,14 +59,35 @@ Para realizar o projeto, você precisará:
 ### 1. Instalar o Android Studio
 
 1. Acesse a [página oficial do Android Studio](https://developer.android.com/studio?hl=pt-br#get-android-studio).
+
+![Image](https://github.com/user-attachments/assets/d301276f-180f-4588-9d90-e59c624e54ec)
+
 2. Baixe e instale o Android Studio seguindo as instruções específicas para o seu sistema operacional (Windows, macOS ou Linux).
+
+![Image](https://github.com/user-attachments/assets/a5887816-8cbc-4287-9b93-d143fd7688e7)
+
+![Image](https://github.com/user-attachments/assets/bc7028f1-c03e-45ca-a205-01bbe533a334)
+
+![Image](https://github.com/user-attachments/assets/0a88306a-4064-4e5e-a250-8a101d3acb5c)
+
 3. Após a instalação, escolha entre os temas claro e escuro e configure o emulador para Wear OS.
+
+![Image](https://github.com/user-attachments/assets/e7a49e81-2659-4e10-b20a-4169e70e5a48)
 
 ### 2. Criar um Emulador Wear OS
 
 1. No Android Studio, vá para `Tools > Device Manager`.
+
+![Image](https://github.com/user-attachments/assets/51726903-6a8f-4a78-9c37-f737d3712d42)
+
 2. Clique em `Create Device` e selecione a categoria Wear OS.
+
+![Image](https://github.com/user-attachments/assets/f906e066-0476-4519-8797-334d2d334ba9)
+
 3. Escolha o hardware e a versão do sistema operacional.
+
+![Image](https://github.com/user-attachments/assets/5cb6f41e-dd2b-470e-8cb9-8722c9ae503d)
+
 4. Configure as propriedades do dispositivo e finalize o processo.
 
 ---
