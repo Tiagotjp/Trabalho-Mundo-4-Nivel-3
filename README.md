@@ -103,21 +103,36 @@ Para realizar o projeto, você precisará:
 2. Selecione `Wear OS` e escolha o template `No Activity`.
 3. Nomeie o projeto como "ListaDeTarefas" e utilize a API 30 como mínimo.
 
+![Image](https://github.com/user-attachments/assets/891b19a6-caaa-4bd5-b5b9-771a5880cfae)
+
 ### Microatividade 3: Configurações e Lógica
 1. Crie a `MainActivity.java` no diretório `app`.
-2. Configure permissões no arquivo `AndroidManifest.xml`:
+
+![Image](https://github.com/user-attachments/assets/8e2b4a6f-5c35-4812-a583-916247a31f17)
+
+![Image](https://github.com/user-attachments/assets/8708a6b7-619a-4a11-80c6-29b7e7a6db5a)
+   
+3. Configure permissões no arquivo `AndroidManifest.xml`:
    ```xml
    <uses-permission android:name="android.permission.BODY_SENSORS"/>
    <uses-permission android:name="android.permission.WAKE_LOCK"/>
    ```
+![Image](https://github.com/user-attachments/assets/b1ece45e-f349-471c-8490-ab9d690dce7c)
+
 3. Adicione dependências no arquivo `build.gradle`.
+
+![Image](https://github.com/user-attachments/assets/601ea5ca-b24b-4288-845b-c7d2d16ea2a6)
 
 ### Microatividade 4: Desenvolvimento e Testes
 - Crie uma interface inicial utilizando `ListView` e `Button`.
 - Teste as funcionalidades no emulador.
 
+![Image](https://github.com/user-attachments/assets/11664081-c604-4b3c-944e-e0d3bb22395e)
+
 ### Microatividade 5: Captura de Tela
 - Realize capturas de tela no emulador ou utilizando um dispositivo físico conectado.
+
+![Image](https://github.com/user-attachments/assets/9feb3f02-fa19-4a77-a7bb-ee08e8bf4ca3)
 
 ---
 
@@ -131,4 +146,4 @@ Para realizar o projeto, você precisará:
 
 🛠️ **Desenvolvido por
 
-
+![Image](https://github.com/user-attachments/assets/aaf8c20a-4df7-4b19-86b9-d660be250da9)
